@@ -1,1 +1,1 @@
-some file is writhen here.
+some file is written here.
